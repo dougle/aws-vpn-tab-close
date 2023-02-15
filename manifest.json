@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "AWS VPN Tab Closer",
+  "version": "0.1.0",
+  "description": "An extension to detect and close the authentication tab left open by AWS VPN",
+  "background": {
+    "service_worker": "scripts/background.js"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "scripts/content.js"
+      ],
+      "matches": [
+        "http://127.0.0.1:35001/"
+      ]
+    }
+  ]
+}
