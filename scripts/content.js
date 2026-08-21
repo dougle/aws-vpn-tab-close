@@ -32,7 +32,7 @@ var v6_auth = (dqs('.header .brand .aws') && v6_auth_message.includes(dqs('.card
 
 // if the body element only contains the confirmation message above
 if(v5_auth || v6_auth){
-    // // send a message to background.js to close the tab
+    // send a message to background.js to close the tab
     chrome.runtime.sendMessage({
         command: "close_tab"
     });
