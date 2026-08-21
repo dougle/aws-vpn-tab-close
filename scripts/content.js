@@ -10,10 +10,10 @@ var v5_auth_message = [
 ];
 var v6_auth_message = [
     "Authentication successful\n\nYou may now close this browser tab.", // english
-    "これで、このブラウザタブを閉じることができます。", // japanese
-    "Sie können diese Browser-Registerkarte nun schließen.", // german
-    "Ahora puede cerrar esta pestaña del navegador.", // spanish
-    "Vous pouvez maintenant fermer cet onglet du navigateur.", // french
+    "認証に成功しました\n\nこれで、このブラウザタブを閉じることができます。", // japanese
+    "Authentifizierung erfolgreich\n\nSie können diese Browser-Registerkarte nun schließen.", // german
+    "Autenticación exitosa\n\nAhora puede cerrar esta pestaña del navegador.", // spanish
+    "Authentification réussie\n\nVous pouvez maintenant fermer cet onglet du navigateur.", // french
 ];
 
 // v5 and v6 confirmation pages differ in structure
