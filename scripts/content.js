@@ -7,7 +7,7 @@ var v5_auth_message = [
     "Authentifizierungsdetails empfangen, Details werden verarbeitet. Sie können dieses Fenster jederzeit schließen.", // german
     "Detalles de autenticación recibidos, se están procesando los detalles. Puede cerrar esta ventana en cualquier momento.", // spanish
     "Informations d'authentification reçues et en cours de traitement. Vous pouvez fermer cette fenêtre à tout moment.", // french
-];r
+];
 var v6_auth_message = [
     "Authentication successful\n\nYou may now close this browser tab.", // english
     "これで、このブラウザタブを閉じることができます。", // japanese
