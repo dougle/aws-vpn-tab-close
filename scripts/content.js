@@ -5,9 +5,15 @@ var v5_auth_message = [
     "Authentication details received, processing details. You may close this window at any time.", // english
     "認証の詳細を受信、詳細を処理中です。このウィンドウをいつでも閉じることができます。", // japanese
     "Authentifizierungsdetails empfangen, Details werden verarbeitet. Sie können dieses Fenster jederzeit schließen.", // german
-];
+    "Detalles de autenticación recibidos, se están procesando los detalles. Puede cerrar esta ventana en cualquier momento.", // spanish
+    "Informations d'authentification reçues et en cours de traitement. Vous pouvez fermer cette fenêtre à tout moment.", // french
+];r
 var v6_auth_message = [
     "Authentication successful\n\nYou may now close this browser tab.", // english
+    "これで、このブラウザタブを閉じることができます。", // japanese
+    "Sie können diese Browser-Registerkarte nun schließen.", // german
+    "Ahora puede cerrar esta pestaña del navegador.", // spanish
+    "Vous pouvez maintenant fermer cet onglet du navigateur.", // french
 ];
 
 // v5 and v6 confirmation pages differ in structure
