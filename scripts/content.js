@@ -1,7 +1,8 @@
 var body_content = document.body.innerText;
 var auth_message = [
     "Authentication details received, processing details. You may close this window at any time.", // english
-    "認証の詳細を受信、詳細を処理中です。このウィンドウをいつでも閉じることができます。" // japanese
+    "認証の詳細を受信、詳細を処理中です。このウィンドウをいつでも閉じることができます。", // japanese
+    "Authentifizierungsdetails empfangen, Details werden verarbeitet. Sie können dieses Fenster jederzeit schließen." // german
 ];
 
 // if the body element only contains the confirmation message above
